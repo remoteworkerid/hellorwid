@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="hellorwid", # Replace with your own username
-    version="0.0.3",
+    version="0.0.5",
     author="Eko S. Wibowo",
     author_email="swdev.bali@gmail.com",
     description="A hello world for all fellows of Remote Worker Indonesia",
